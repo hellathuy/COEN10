@@ -4,7 +4,7 @@
  *File: lab5.c
  *
  *Description: A simple multiplication game that generates 10 different multiplication questions and a percentage
- * 	       score out of 10 at the end. 
+ * 	       score out of 10 at the end depending on how many questions the user gets right. 
  */
 
 #include <stdio.h>
