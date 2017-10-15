@@ -1,3 +1,12 @@
+/*
+ *Name: Thuy Le
+ *Date:	10/29/15
+ *File: lab6.py
+ *
+ *Description: A program using arrays to help book appointments, cancel appointments, and display existing appointments. 
+ * 
+ */
+
 #include <stdio.h>
 
 int main (void) {
