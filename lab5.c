@@ -1,3 +1,12 @@
+/*
+ *Name: Thuy Le
+ *Date:	10/22/15
+ *File: lab5.c
+ *
+ *Description: A simple multiplication game that generates 10 different multiplication questions and a percentage
+ * 	       score out of 10 at the end. 
+ */
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
