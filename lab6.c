@@ -4,7 +4,7 @@
  *File: lab6.py
  *
  *Description: A program using arrays to help book appointments, cancel appointments, and display existing appointments. 
- * 
+ * 	       Cycle through different functions using if else statements. 
  */
 
 #include <stdio.h>
