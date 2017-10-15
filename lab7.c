@@ -1,3 +1,12 @@
+/*
+ *Name: Thuy Le
+ *Date:	11/5/15
+ *File: lab7.c
+ *
+ *Description: The same program as lab 6 except instead of if else statements, used switch function. 
+ *          
+ */
+
 #include <stdio.h>
 #include <string.h>
 
